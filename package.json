@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "name": "typescript-react-beginning",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
